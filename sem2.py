@@ -141,7 +141,7 @@ def index():
             <img src="https://cdn1.cardly.net/card/1/5252c9b4-7bd3-e12c-fb32-9920d3584ec3/page1-r2-i9233-fcde9c73aaa66e3c1d0f606121111fbb.webp/vp/detail-card/1200">
         </div>
         <div class="details">
-            <h4 class="color1">Dear Professor!</h4>
+            <h4 class="color1">Dear Professor Brian!</h4>
             <br>
             <p>Wishing you a speedy recovery and  </p>
             <p>brighter days ahead.! </p>
